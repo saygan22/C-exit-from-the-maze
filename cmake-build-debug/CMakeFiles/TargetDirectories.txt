@@ -1,0 +1,3 @@
+C:/Users/Serhii/CLionProjects/C-exit-from-the-maze/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/Serhii/CLionProjects/C-exit-from-the-maze/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Serhii/CLionProjects/C-exit-from-the-maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
